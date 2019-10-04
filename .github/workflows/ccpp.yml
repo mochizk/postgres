@@ -19,4 +19,5 @@ jobs:
       run: make
     - name: make check
       run: make check
-
+    - name: make check-world
+      run: make check-world
